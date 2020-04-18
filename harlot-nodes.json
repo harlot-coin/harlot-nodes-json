@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "Harlot#Node",
+      "url": "91.201.25.46",
+      "port": 31428,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Harlot##Node",
+      "url": "91.201.25.42",
+      "port": 31428,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Harlot###Node",
+      "url": "178.159.38.245",
+      "port": 31428,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
